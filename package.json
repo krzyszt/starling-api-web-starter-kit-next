@@ -1,5 +1,5 @@
 {
-  "name": "create-next-example-app",
+  "name": "starling-web-starter-kit-next",
   "scripts": {
     "dev": "next",
     "build": "next build",
