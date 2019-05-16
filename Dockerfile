@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM 957711056102.dkr.ecr.eu-west-1.amazonaws.com/base-image
 
 # Create app directory
 RUN mkdir -p /usr/src
